@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dingyi1024.github.io/box-breathing/sitemap.xml
