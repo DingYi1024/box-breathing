@@ -2,4 +2,4 @@
 
 This box breathing animation (not a gif or simple diagram) visually guides you in this useful exercise. It is also known as square breathing or diaphragmatic breathing. It has numerous benefits such as reduced anxiety, stress and increased mindfulness, calmness and relaxation.
 
-I made this site as a CSS exercise after seeing [this post](https://news.ycombinator.com/item?id=33586383) on HackerNews.
+这是一个可视化方块呼吸练习页面，适合用于日常放松与专注训练。
